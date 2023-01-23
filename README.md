@@ -16,10 +16,7 @@ Planner is a personal planner which helps you to make a checklist or send a remi
 - Sharing is Caring
 
 ## How the app looks like
-https://user-images.githubusercontent.com/112976198/214088118-da44e2e4-1936-45f4-a126-ca28c9a165b6.mov
-https://user-images.githubusercontent.com/112976198/214088183-11a2087a-1a08-47d2-a711-78dafa3979f0.mov
-https://user-images.githubusercontent.com/112976198/214088163-118bbd3b-8c81-4e4c-b4d3-6f78063b77d0.mov
-https://user-images.githubusercontent.com/112976198/214088228-ff2f1361-ebea-4a06-839f-5baec23c9bf7.mov
 
+https://user-images.githubusercontent.com/112976198/214088467-5314e8ce-a5ce-4a51-b879-3758b0f00584.mov
 
 
