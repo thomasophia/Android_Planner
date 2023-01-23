@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aguafina_script</item>
+        <item>@font/fira_code_light</item>
+        <item>@font/lato</item>
+        <item>@font/lato_bold</item>
+        <item>@font/lato_light</item>
+        <item>@font/nunito_sans</item>
+        <item>@font/nunito_sans_extralight</item>
+        <item>@font/open_sans</item>
+        <item>@font/source_sans_pro_extralight</item>
+    </array>
+</resources>

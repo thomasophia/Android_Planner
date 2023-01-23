@@ -1,0 +1,22 @@
+this app contains:
+
+Base
+    <Main Activity with EntryFragment>
++
+
+# Block 1: Navigation
+    <Navigation from EntryFragment to listFragment and to noteFragment(argument: String)>
+# Block 2: Permissions, Toasts and Snackbars
+    <Permission: EntryFragment, click on ImageView>
+# Block 3: RecyclerView and Lists
+    <ListFragment, ListAdapter and fragment_list_item layout>
+# Block 4: Dialogs
+    <ListFragment, click on DeleteDone Button>
+# Block 5: Shared Preferences
+    <EntryFragment: Name (RememberMe Checkbox)>
+    <ListFragment: List, with gson>
+# Block 6: Notifications
+    <ReceivingTextActivity: when App receives text with intent>
+# Block 7: Sharing is Caring
+    <NoteFragment and ReceivingTextActivity >
+

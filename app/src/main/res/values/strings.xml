@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Planner</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_receiving_text">ReceivingTextActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="receive_text">ReceiveText</string>
+    <string name="postman">postman</string>
+    <string name="make_a_checklist">make a Checklist</string>
+    <string name="welcome_to_your_personal_planner">Welcome to your personal planner</string>
+    <string name="what_would_you_like_to_do">What would you like to do?</string>
+    <string name="note_to_myself">send a reminder</string>
+    <string name="my_name">my Name</string>
+    <string name="yoga_bulb">yoga_bulb</string>
+    <string name="todo">ToDo</string>
+    <string name="add">ADD</string>
+    <string name="todo_item">ToDo Item</string>
+    <string name="note_to_myself_">Remind me of&#8230;</string>
+    <string name="name">Name</string>
+    <string name="hello">Hello</string>
+    <string name="deleteDone">Delete Done</string>
+    <string name="title">Delete done ToDo\'s?</string>
+    <string name="supporting_text">This will delete all of your done ToDo\'s.</string>
+    <string name="decline">Cancel</string>
+    <string name="accept">Accept</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="notification_name">New Message Alert</string>
+    <string name="was_sent_to_myself">&#8230;was sent to Myself!</string>
+    <string name="save_list">Save List</string>
+    <string name="iconwrite">iconWrite</string>
+    <string name="bulb">bulb</string>
+    <string name="sharetext">shareText</string>
+</resources>
