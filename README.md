@@ -3,8 +3,7 @@ Planner is a university project that was created as part of the android basics c
 Planner is a personal planner which helps you to make a checklist or send a reminder to yourself.
 
 ## How to run the app
-1.
-2.
+1. Build and the run the app in Android Studio
 
 ## Features
 - Navigation <Navigation from EntryFragment to listFragment and to noteFragment (argument: String)>
