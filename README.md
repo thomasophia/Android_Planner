@@ -16,6 +16,10 @@ Planner is a personal planner which helps you to make a checklist or send a remi
 
 ## How the app looks like
 
+<video auto-play="true" loop="loop" muted="muted" plays-inline="true">
+  <source src="https://user-images.githubusercontent.com/112976198/214088467-5314e8ce-a5ce-4a51-b879-3758b0f00584.mov" type="video/mp4">
+</video>
+
 https://user-images.githubusercontent.com/112976198/214088467-5314e8ce-a5ce-4a51-b879-3758b0f00584.mov
 
 https://user-images.githubusercontent.com/112976198/214088588-cf83f152-3be6-4822-9488-d025235d1a08.mov
