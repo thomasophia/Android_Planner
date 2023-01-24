@@ -1,5 +1,5 @@
-# Android_Planner
-Planner is a university project that was created as part of the android basics course at the FH Technikum Vienna.
+# Planner
+Planner is an practice project that was created as part of the android basics course at the FH Technikum Vienna.
 Planner is a personal planner which helps you to make a checklist or send a reminder to yourself.
 
 ## How to run the app
